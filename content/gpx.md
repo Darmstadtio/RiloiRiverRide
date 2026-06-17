@@ -7,7 +7,14 @@ summary: "This is my first post on my site"
 
 ## Come seguire l'itinerario
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nibh nisl, vulputate eu lacus vitae, maximus molestie libero. Vestibulum laoreet, odio et sollicitudin sollicitudin, quam ligula tempus urna, sed sagittis eros eros ac felis. In tristique tortor vitae lacinia commodo. Mauris venenatis ultrices purus nec fermentum. Nunc sit amet aliquet metus. Morbi nisl felis, gravida ac consequat vitae, blandit eu libero. Curabitur porta est in dui elementum porttitor. Maecenas fermentum, tortor ac feugiat fringilla, orci sem sagittis massa, a congue risus ipsum vel massa. Aliquam sit amet nunc vulputate, facilisis neque in, faucibus nisl.
+Per ogni itinerario è possibile scaricare il file .GPX e visualizzarlo tramite un qualsiasi computer da bici o smartphone. In alternativa gli itinerari sono visualizzabili anche tramite l'app Komoot dove sono resi pubblici e disponibili a tutti.
+Poichè non sono presenti indicazioni sul percoso è fortemente consigliato il farsi trovare pronti e le tracce già scaricate.
+
+Se non si dispone di un applicazione in grado di visualizzare le tracce GPS (i file .GPX), l'organizzazione consiglia queste due opzioni a seconda del sistema operativo del proprio smartphone:
+- Android: [Organic Maps](https://play.google.com/store/apps/details?id=app.organicmaps&hl=it)
+- IOS: [Open Gpx Tracker](https://apps.apple.com/it/app/open-gpx-tracker/id984503772)
+
+Poichè si pedalerà sempre su strada e tracciati pubblici è fondmantale indossare sempre il casco, guidare con prudenza, rendersi sempre ben visibili e rispettar il codice della strada.
 
 ## Il Corto: 20kmm
 #### Download GPX
