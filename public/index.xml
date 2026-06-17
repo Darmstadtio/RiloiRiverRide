@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://localhost:1313/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>© 2026 Riloi River Ride</copyright>
-    <lastBuildDate>Thu, 14 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Contatti</title>
-      <link>https://localhost:1313/contatti/</link>
+      <link>//localhost:1313/contatti/</link>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/contatti/</guid>
+      <guid>//localhost:1313/contatti/</guid>
       <description>Sentiamoci! Becchiamoci! Non perdiamoci di vista!</description>
       
     </item>
     
     <item>
       <title>Dove, Come e Quando</title>
-      <link>https://localhost:1313/dove_come/</link>
+      <link>//localhost:1313/dove_come/</link>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/dove_come/</guid>
+      <guid>//localhost:1313/dove_come/</guid>
       <description>Un idea di massima su come e dove trovarsi</description>
       
     </item>
     
     <item>
       <title>F.A.Q.</title>
-      <link>https://localhost:1313/faq/</link>
+      <link>//localhost:1313/faq/</link>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/faq/</guid>
+      <guid>//localhost:1313/faq/</guid>
       <description>(forse) tutte le domande e tutte le risposte</description>
       
     </item>
     
     <item>
       <title>La Social Ride</title>
-      <link>https://localhost:1313/socialride/</link>
+      <link>//localhost:1313/socialride/</link>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/socialride/</guid>
+      <guid>//localhost:1313/socialride/</guid>
       <description>This is my first post on my site</description>
       
     </item>
     
     <item>
       <title>Le Tracce</title>
-      <link>https://localhost:1313/gpx/</link>
+      <link>//localhost:1313/gpx/</link>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/gpx/</guid>
+      <guid>//localhost:1313/gpx/</guid>
       <description>This is my first post on my site</description>
       
     </item>
