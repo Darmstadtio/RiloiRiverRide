@@ -1,0 +1,53 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+[[main]]
+  name = "The Social Ride"
+  pageRef = "socialride_en"
+  weight = 10
+
+[[main]]
+  name = "Tracks"
+  pageRef = "gpx_en"
+  weight = 15
+
+[[main]]
+  name = "Where, When and How"
+  pageref = "dove_come_en"
+  weight = 20
+
+[[main]]
+  name = "F.A.Q."
+  parent = "Info"
+  pageRef = "faq_en"
+  weight = 25
+
+[[main]]
+  name = "Contacts"
+  parent = "Info"
+  pageRef = "contatti_en"
+  weight = 30
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+ [[footer]]
+   name = "The Project"
+   pageRef = "progetto_en"
+   weight = 20
+    
+  [[footer]]
+    identifier = ""
+    pre = "instagram"
+    url = "https://www.instagram.com/riloiriverride/"
+    weight = 40

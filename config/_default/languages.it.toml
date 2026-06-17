@@ -1,0 +1,22 @@
+locale = "it"
+label = "Italiano"
+weight = 1
+title = ""
+
+[params]
+  displayName = "Italiano"
+  isoCode = "it"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/logo1000pxW.png"
+  secondaryLogo = "img/logo1000px.png"
+  description = "Il primo evento gravel per la valle dell'Oglio"
+
+[params.author]
+  name = "Riloi River Ride"
+  image = "img/logo1280px.png"
+  headline = "Gravel per Tutti"
+  bio = "Gravel per tutti"
+  links = [
+    { instagram = "https://www.instagram.com/riloiriverride/" },
+  ]

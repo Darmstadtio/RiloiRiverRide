@@ -1,0 +1,23 @@
+locale = "en"
+label = "English"
+weight = 2
+title = "Riloi River Ride"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/logo1000pxW.png"
+  secondaryLogo = "img/logo1000px.png"
+  description = "Gravel!"
+
+[params.author]
+  name = "Riloi River Ride"
+  # email = "nuno@n9o.xyz"
+  image = "img/logo1280px.png"
+  headline = "Gravel for everyone!"
+  bio = "Gravel for everyone!"
+  links = [
+    { instagram = "https://www.instagram.com/riloiriverride/" },
+  ]
